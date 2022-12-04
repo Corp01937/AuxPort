@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/skick1234/DisTube-Example#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.8.0",
     "discord.js": "^12.5.3",
     "distube": "^2.5.1",
     "ytdl-core": "^4.10.1"
